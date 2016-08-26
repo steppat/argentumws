@@ -2,3 +2,5 @@ bin/
 target/
 *.class
 *.jar
+.settings/
+.settings/org.eclipse.jdt.core.prefs/
